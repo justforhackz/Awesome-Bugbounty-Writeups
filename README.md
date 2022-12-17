@@ -469,7 +469,6 @@
 
 ## SQL Injection(SQLI)
 
-- [Tricky oracle SQLI situation](https://blog.yappare.com/2020/04/tricky-oracle-sql-injection-situation.html)
 - [Exploiting “Google BigQuery” SQLI](https://hackemall.live/index.php/2020/03/31/akamai-web-application-firewall-bypass-journey-exploiting-google-bigquery-sql-injection-vulnerability/)
 - [SQLI via stopping the redirection to a login page](https://medium.com/@St00rm/sql-injection-via-stopping-the-redirection-to-a-login-page-52b0792d5592)
 - [Finding SQLI with white box analysis a recent bug example](https://medium.com/@frycos/finding-sql-injections-fast-with-white-box-analysis-a-recent-bug-example-ca449bce6c76)
